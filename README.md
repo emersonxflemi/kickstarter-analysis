@@ -7,10 +7,11 @@ by Emerson Fleming
 ## Overview of the Project
 Louise launched an unsuccessful marketing campaign for a play called *Fever* some time ago. The campaign for *Fever* had a goal to raise $2,885 and raised $2,485. Though Louise came close to reaching her goal, she missed narrowly. Luckily, she provided data to pinpoint a logical rationale for its lack of success. The purpose of the following report is to analyze how close other plays were to reaching fundraising goals in comparison to *Fever*. 
 
-Analysis and Challenges
+## Analysis and Challenges
 In order to better assess where Louise can improve, a visualization was created to compare theater outcomes based on launch date. Based on the visual entitled Outcomes Based on Launch date, early summer exhibits the height of theatre success. Winter in addition to early January appear to be the worst times to launch a funding campaign. Suprisingly, Louise launched her campaign at a reasonably ideal time in July. However, Louise most likely would have had more success starting the campaign closer to the beginning of the summer.
 
-## Analysis and Challenges
+![image_name](path/to/image_name.png)
+
 Additionally, another graphical demonstration was created to assess which percentage of fundraising campaigns were successful based on goal amount set. Generally speaking, higher campaigns goals lead to increasingly lower percentages of successful campaigns. However, a band exists at around the 35000 to 45000 mark that is statistically achieved more easily than even smaller campaigns. Additionally, the higher the funding amount set, the more likely fundraising campaigns are to be cancelled. As for the results of the *Fever* campaign, nearly 70% of campaigns were successful in its goal bracket of $1-5000. Therefore, Louise's play belongs to the minority percentage of unsuccesful campaigns for its goal bracket and may have impediments to success outside of this criteria.
 
 ## Results
