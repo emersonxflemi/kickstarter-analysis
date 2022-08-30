@@ -10,7 +10,7 @@ Louise launched an unsuccessful marketing campaign for a play called *Fever* som
 ## Analysis and Challenges
 In order to better assess where Louise can improve, a visualization was created to compare theater outcomes based on launch date. Based on the visual entitled Outcomes Based on Launch date, early summer exhibits the height of theatre success. Winter in addition to early January appear to be the worst times to launch a funding campaign. Suprisingly, Louise launched her campaign at a reasonably ideal time in July. However, Louise most likely would have had more success starting the campaign closer to the beginning of the summer.
 
-![Theater_Outcomes_Based_on Launch_Date (Example)](emersonxflemi/kickstarter-analysis/Resources/Theater_Outcomes_Based_on Launch_Date (Example).png)
+![Theater_Outcomes_Based_on Launch_Date (Example)](emersonxflemi/kickstarter-analysis/Resources/Theater_Outcomes_Based_on Launch_Date (Example))
 
 Additionally, another graphical demonstration was created to assess which percentage of fundraising campaigns were successful based on goal amount set. Generally speaking, higher campaigns goals lead to increasingly lower percentages of successful campaigns. However, a band exists at around the 35000 to 45000 mark that is statistically achieved more easily than even smaller campaigns. Additionally, the higher the funding amount set, the more likely fundraising campaigns are to be cancelled. As for the results of the *Fever* campaign, nearly 70% of campaigns were successful in its goal bracket of $1-5000. Therefore, Louise's play belongs to the minority percentage of unsuccesful campaigns for its goal bracket and may have impediments to success outside of this criteria.
 
